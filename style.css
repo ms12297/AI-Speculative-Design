@@ -556,6 +556,7 @@ section {
 --------------------------------------------------------------*/
 .counts {
   padding-top: 80px;
+  padding-bottom: 10%;
 }
 
 .counts .count-box {
@@ -1028,6 +1029,10 @@ section {
 /*--------------------------------------------------------------
 # Frequently Asked Questions
 --------------------------------------------------------------*/
+#faq{
+  padding-bottom: 10%;
+}
+
 .faq .faq-list {
   padding: 0;
   list-style: none;
