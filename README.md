@@ -20,7 +20,8 @@ Data privacy and security is another crucial aspect of discussion, especially in
 </p>
 
 <li>See the wireframe here: https://drive.google.com/file/d/1Md56RGI_vSAweD2UE1Rq3f8BCv246iJE/view?usp=drivesdk </li>
-<li>See the template here: </li>
+<li>See the template here:  </li>
+<li>See our working document here: https://docs.google.com/document/d/1K-D6XJljvyrCxReWvQWHXUZS_kKXv12ZQ8zB721rey0/edit?usp=sharing </li>
 
 <h2> ... on using ai 🪄</h2>
 
