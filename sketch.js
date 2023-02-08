@@ -79,6 +79,12 @@
     })
   }
 
+  // 
+  on('click', '.btn-get-started', function(e) {
+    // set the background to new image
+    document.querySelector('#hero').style.background = "url('assets/img/test.jpeg') top center no-repeat"
+  })
+
   /**
    * Toggle .header-scrolled class to #header when page is scrolled
    */
