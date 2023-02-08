@@ -1,5 +1,3 @@
-# AI-Speculative-Design 
-
 <h1> Aibo Documentation </h1>
 
 <h2> PURPOSE OF THE PRODUCT:</h2>
