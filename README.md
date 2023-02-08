@@ -26,5 +26,5 @@ Data privacy and security is another crucial aspect of discussion, especially in
 
 <h2> USING AI </h2>
 
-<p>Using MidJourney to generate the images for our website had an important impact on our project. They helped us visualize, and better design how an Aibo would look like so that (1) all the team members would be on the same page, and (2) the information would be transmitted in an easier manner to the audience. Furthermore, we were using the AI model constantly throughout the design process to generate images. We believe that seeing the product mock-ups it gave us, altered our approach to the creative process, and guided us 
+<p>Using MidJourney to generate the images for our website had an important impact on our project. They helped us visualize, and better design how an Aibo would look like so that (1) all the team members would be on the same page, and (2) the information would be transmitted in an easier manner to the audience. Furthermore, we were using the AI model constantly throughout the design process to generate images. We believe that seeing the product mock-ups it gave us, altered our approach to the creative process, and guided us to imagining features that could be feasible for the AI's visualization. 
 </p>
