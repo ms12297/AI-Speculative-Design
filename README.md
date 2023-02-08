@@ -1,6 +1,6 @@
-<h1> Aibo Documentation </h1>
+<h1> Aibo Documentation 🤖 </h1>
 
-<h2> PURPOSE OF THE PRODUCT:</h2>
+<h2> PURPOSE OF THE PRODUCT: </h2>
 
 <p>Aibo is an extension program downloaded through the device Neuralink and visualizes a speculative design for a product launched approximately a thousand years from now. The product's main purpose is to provide company to any person who feels lonely or isolated from society. Aibo, translated from Japanese as “companion or partner”, is a holographic image transmitted to the brain through Neuralink that allows the user to see and interact with their new friend. Aibo uses Artificial Intelligence to analyze the preferences of the user based on the user’s behavior and qualities that define the “perfect” companion in the user’s inner self desires. However, as mentioned on the website, this option is customizable. The user is allowed to interact with their Aibo by communicating through internal thoughts without the necessity of speaking out loud. Moreover, Aibo also includes features such as functioning as a personal virtual assistant, functioning as a friend that listens and responds to human emotions, and functioning as someone to spend time with. The user can further share their Aibo with other users if desired, but the main purpose of Aibo is to provide a private companion. Users can feel assured that what they tell their Aibo will remain confidential. Aibo is an intelligent program that understands human emotions and will always know how to respond to them. Although Aibo is intended to fill the void of solitude in people, Aibo will be opened to the general public. Aibo stands for a program that enhances interaction for every person around the world. 
 </p>
