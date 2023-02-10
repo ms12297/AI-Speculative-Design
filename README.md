@@ -16,11 +16,10 @@ Data privacy and security is another crucial aspect of discussion, especially in
 <h2> Creative process 💡  </h2>
 <p>The process for the creation of Aibo began with a few ideas that arose in a class discussion. We explored two technologies that would serve as the bases for our product. (1) The Seal AI companion for the elderly, and (2) virtual chats with K-pop AI idols. When faced with a task of speculative design, our team considered what are the potential ethical and social implications of these applications of AI, and situated them in a future where technology is significantly more developed, and where the market lacks regulations to address the aforementioned concerns. As listed in the product implications, the goal of Aibo was to imagine a future that would bring dependence on technology, abuse of privacy from big corporations, the blurred lines of what it means to be human, amongst many, to the forefront of the discourse. Upon several conversations, we decided that the best way to go forward would be to emulate the behavior of big tech companies in the present, and build a website as a marketing product that would illustrate the severity, but subtly of our concerns.</p>
 
-<p>We first brainstormed for a possible wireframe for our website where we could present all the content in an organized and efficient way. From our wireframe, we found a template that fit our expectations perfectly and altered it to resemble our ideas. 
+<p>We first brainstormed for a possible wireframe for our website where we could present all the content in an organized and efficient way.
 </p>
 
 <li>See the wireframe here: https://drive.google.com/file/d/1Md56RGI_vSAweD2UE1Rq3f8BCv246iJE/view?usp=drivesdk </li>
-<li>See the template here:  </li>
 <li>See our working document here: https://docs.google.com/document/d/1K-D6XJljvyrCxReWvQWHXUZS_kKXv12ZQ8zB721rey0/edit?usp=sharing </li>
 
 <h2> ... on using ai 🪄</h2>
